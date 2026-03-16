@@ -18,7 +18,7 @@ TLS_SERVER_DEFAULT=addons.mozilla.org
 PROTOCOL_LIST=("XTLS + reality" "hysteria2" "tuic" "ShadowTLS" "shadowsocks" "trojan" "vmess + ws" "vless + ws + tls" "H2 + reality" "gRPC + reality" "AnyTLS")
 NODE_TAG=("xtls-reality" "hysteria2" "tuic" "ShadowTLS" "shadowsocks" "trojan" "vmess-ws" "vless-ws-tls" "h2-reality" "grpc-reality" "anytls")
 CONSECUTIVE_PORTS=${#PROTOCOL_LIST[@]}
-CDN_DOMAIN=("jdotnyl.m3u8.csicguygc.pay.uruu.cn" "bpipc.m3u8.csicguyga.pay.uruu.cn" "ykmnpyb.m3u8.dsicbuygc.pay.uruu.cn" "www.gco.gov.qa" "edtunnel-dgp.pages.dev" "saas.sin.fan" "www.udemy.com" "www.visa.co.jp")
+CDN_DOMAIN=("na7yty1.tencentapp.cn" "vxrq2w2b.tencentapp.cn" "7hhr3wyu.tencentapp.cn" "www.gco.gov.qa" "edtunnel-dgp.pages.dev" "saas.sin.fan" "www.udemy.com" "www.visa.co.jp" "5jxstgld.tencentapp.cn" "6psk6uhn.tencentapp.cn" "54sbwc.tencentapp.cn" "o0ts69g.tencentapp.cn" "rq1tmg4.tencentapp.cn" "4d9u5y0x.tencentapp.cn" "s3tjxrq.tencentapp.cn" "aqgsbxf1.tencentapp.cn")
 SUBSCRIBE_TEMPLATE="https://raw.githubusercontent.com/fscarmen/client_template/main"
 DEFAULT_NEWEST_VERSION='1.13.0-rc.3'
 
